@@ -1,2 +1,5 @@
 .DS_Store
 sftp-config.json
+/CIFAR-10-C.tar
+/CIFAR-10-C/
+/data/
